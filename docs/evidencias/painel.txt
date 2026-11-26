@@ -1,0 +1,5 @@
+Exceções: 0
+Maior temperatura máxima: 32,5 °C
+Menor temperatura mínima: 12,3 °C
+Precipitação acumulada: 166,4 mm
+Tabelas: 1

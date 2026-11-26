@@ -1,0 +1,25 @@
+{
+  "coletado_em": "2026-11-26T16:03:22.974326-03:00",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=-22.21389&longitude=-49.94583&start_date=2026-10-01&end_date=2026-10-30&daily=temperature_2m_min%2Ctemperature_2m_max%2Cprecipitation_sum&timezone=America%2FSao_Paulo&temperature_unit=celsius&precipitation_unit=mm&models=era5",
+  "parametros": {
+    "latitude": -22.21389,
+    "longitude": -49.94583,
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-30",
+    "daily": "temperature_2m_min,temperature_2m_max,precipitation_sum",
+    "timezone": "America/Sao_Paulo",
+    "temperature_unit": "celsius",
+    "precipitation_unit": "mm",
+    "models": "era5"
+  },
+  "status_http": 200,
+  "sha256": "206080c02152072c5b339151e8c323f20b3de4228a2154ff377482fbf7089f26",
+  "bytes": 1231,
+  "dias_recebidos": 30,
+  "coordenadas_retornadas": {
+    "latitude": -22.25,
+    "longitude": -50.0,
+    "elevacao_m": 650.0
+  },
+  "natureza": "Reanálise ERA5 disponibilizada pela Open-Meteo; não é medição de estação local."
+}

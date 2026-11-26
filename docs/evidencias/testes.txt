@@ -1,0 +1,16 @@
+test_chuva_negativa (teste_qualidade.QualidadeTest.test_chuva_negativa) ... ok
+test_conferencia_independente_json_e_sql (teste_qualidade.QualidadeTest.test_conferencia_independente_json_e_sql) ... ok
+test_data_duplicada (teste_qualidade.QualidadeTest.test_data_duplicada) ... ok
+test_dia_ausente (teste_qualidade.QualidadeTest.test_dia_ausente) ... ok
+test_infinito (teste_qualidade.QualidadeTest.test_infinito) ... ok
+test_kpi_incompleto_nao_usa_soma_parcial (teste_qualidade.QualidadeTest.test_kpi_incompleto_nao_usa_soma_parcial) ... ok
+test_minima_acima_da_maxima (teste_qualidade.QualidadeTest.test_minima_acima_da_maxima) ... ok
+test_nulo_preservado_sem_virar_zero (teste_qualidade.QualidadeTest.test_nulo_preservado_sem_virar_zero) ... ok
+test_recorte_completo (teste_qualidade.QualidadeTest.test_recorte_completo) ... ok
+test_texto_em_coluna_numerica (teste_qualidade.QualidadeTest.test_texto_em_coluna_numerica) ... ok
+test_unidade_incorreta (teste_qualidade.QualidadeTest.test_unidade_incorreta) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.509s
+
+OK

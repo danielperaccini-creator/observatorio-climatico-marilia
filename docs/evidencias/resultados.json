@@ -1,0 +1,215 @@
+{
+  "consulta_1": [
+    {
+      "data": "2026-10-08T00:00:00.000",
+      "maior_temperatura_c": 32.5
+    }
+  ],
+  "consulta_2": [
+    {
+      "data": "2026-10-19T00:00:00.000",
+      "menor_temperatura_c": 12.3
+    }
+  ],
+  "consulta_3": [
+    {
+      "precipitacao_acumulada_mm": 166.4,
+      "dias_com_valor": 30,
+      "dias_no_banco": 30
+    }
+  ],
+  "consulta_4": [
+    {
+      "data": "2026-10-01T00:00:00.000",
+      "temperatura_min": 17.8,
+      "temperatura_max": 24.4,
+      "precipitacao": 9.6
+    },
+    {
+      "data": "2026-10-02T00:00:00.000",
+      "temperatura_min": 17.4,
+      "temperatura_max": 24.1,
+      "precipitacao": 0.6
+    },
+    {
+      "data": "2026-10-03T00:00:00.000",
+      "temperatura_min": 16.3,
+      "temperatura_max": 26.2,
+      "precipitacao": 2.7
+    },
+    {
+      "data": "2026-10-04T00:00:00.000",
+      "temperatura_min": 15.5,
+      "temperatura_max": 24.3,
+      "precipitacao": 12.5
+    },
+    {
+      "data": "2026-10-05T00:00:00.000",
+      "temperatura_min": 15.7,
+      "temperatura_max": 23.6,
+      "precipitacao": 2.9
+    },
+    {
+      "data": "2026-10-06T00:00:00.000",
+      "temperatura_min": 18.2,
+      "temperatura_max": 22.1,
+      "precipitacao": 11.1
+    },
+    {
+      "data": "2026-10-07T00:00:00.000",
+      "temperatura_min": 17.2,
+      "temperatura_max": 29.4,
+      "precipitacao": 0.0
+    },
+    {
+      "data": "2026-10-08T00:00:00.000",
+      "temperatura_min": 18.3,
+      "temperatura_max": 32.5,
+      "precipitacao": 0.0
+    },
+    {
+      "data": "2026-10-09T00:00:00.000",
+      "temperatura_min": 20.5,
+      "temperatura_max": 31.2,
+      "precipitacao": 0.7
+    },
+    {
+      "data": "2026-10-10T00:00:00.000",
+      "temperatura_min": 19.2,
+      "temperatura_max": 24.3,
+      "precipitacao": 3.9
+    },
+    {
+      "data": "2026-10-11T00:00:00.000",
+      "temperatura_min": 18.5,
+      "temperatura_max": 24.3,
+      "precipitacao": 2.4
+    },
+    {
+      "data": "2026-10-12T00:00:00.000",
+      "temperatura_min": 17.5,
+      "temperatura_max": 28.6,
+      "precipitacao": 1.9
+    },
+    {
+      "data": "2026-10-13T00:00:00.000",
+      "temperatura_min": 17.3,
+      "temperatura_max": 23.7,
+      "precipitacao": 9.4
+    },
+    {
+      "data": "2026-10-14T00:00:00.000",
+      "temperatura_min": 16.6,
+      "temperatura_max": 21.8,
+      "precipitacao": 10.0
+    },
+    {
+      "data": "2026-10-15T00:00:00.000",
+      "temperatura_min": 16.8,
+      "temperatura_max": 26.6,
+      "precipitacao": 5.9
+    },
+    {
+      "data": "2026-10-16T00:00:00.000",
+      "temperatura_min": 18.1,
+      "temperatura_max": 25.2,
+      "precipitacao": 16.3
+    },
+    {
+      "data": "2026-10-17T00:00:00.000",
+      "temperatura_min": 15.8,
+      "temperatura_max": 26.1,
+      "precipitacao": 0.0
+    },
+    {
+      "data": "2026-10-18T00:00:00.000",
+      "temperatura_min": 13.5,
+      "temperatura_max": 25.8,
+      "precipitacao": 0.0
+    },
+    {
+      "data": "2026-10-19T00:00:00.000",
+      "temperatura_min": 12.3,
+      "temperatura_max": 27.1,
+      "precipitacao": 0.0
+    },
+    {
+      "data": "2026-10-20T00:00:00.000",
+      "temperatura_min": 14.7,
+      "temperatura_max": 28.7,
+      "precipitacao": 0.0
+    },
+    {
+      "data": "2026-10-21T00:00:00.000",
+      "temperatura_min": 14.6,
+      "temperatura_max": 29.9,
+      "precipitacao": 0.0
+    },
+    {
+      "data": "2026-10-22T00:00:00.000",
+      "temperatura_min": 17.2,
+      "temperatura_max": 20.4,
+      "precipitacao": 9.1
+    },
+    {
+      "data": "2026-10-23T00:00:00.000",
+      "temperatura_min": 17.5,
+      "temperatura_max": 23.5,
+      "precipitacao": 1.0
+    },
+    {
+      "data": "2026-10-24T00:00:00.000",
+      "temperatura_min": 18.1,
+      "temperatura_max": 31.6,
+      "precipitacao": 1.0
+    },
+    {
+      "data": "2026-10-25T00:00:00.000",
+      "temperatura_min": 19.2,
+      "temperatura_max": 23.4,
+      "precipitacao": 46.6
+    },
+    {
+      "data": "2026-10-26T00:00:00.000",
+      "temperatura_min": 15.5,
+      "temperatura_max": 26.0,
+      "precipitacao": 0.1
+    },
+    {
+      "data": "2026-10-27T00:00:00.000",
+      "temperatura_min": 12.5,
+      "temperatura_max": 23.9,
+      "precipitacao": 1.9
+    },
+    {
+      "data": "2026-10-28T00:00:00.000",
+      "temperatura_min": 15.3,
+      "temperatura_max": 26.5,
+      "precipitacao": 1.8
+    },
+    {
+      "data": "2026-10-29T00:00:00.000",
+      "temperatura_min": 17.2,
+      "temperatura_max": 19.7,
+      "precipitacao": 14.4
+    },
+    {
+      "data": "2026-10-30T00:00:00.000",
+      "temperatura_min": 18.0,
+      "temperatura_max": 25.7,
+      "precipitacao": 0.6
+    }
+  ],
+  "consulta_5": [
+    {
+      "cidade": "Marília/SP",
+      "registros": 30,
+      "datas_distintas": 30,
+      "inicio": "2026-10-01T00:00:00.000",
+      "fim": "2026-10-30T00:00:00.000",
+      "min_ausentes": 0,
+      "max_ausentes": 0,
+      "precipitacao_ausentes": 0
+    }
+  ]
+}
